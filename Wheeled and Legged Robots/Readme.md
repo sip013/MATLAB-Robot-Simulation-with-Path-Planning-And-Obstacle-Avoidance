@@ -95,4 +95,4 @@ To see the simulation in action, watch the demo video:
 📌 **Hybrid A* Algorithm** – Path planning reference  
 📌 **Monte Carlo Localization** – Probabilistic robotics concepts  
 
----
+--- 
