@@ -63,6 +63,15 @@ The simulation generates **real-time visual feedback**, displaying:
    - The **path planning and localization process**.
    - A final **comparison of planned vs. optimized vs. actual paths**.
 
+---
+> Screenshots of the simulation:
+
+![Screenshot 1](/Wheeled%20and%20Legged%20Robots/Images/Fig1.png)
+
+![Screenshot 2](/Wheeled%20and%20Legged%20Robots/Images/Fig2.png)
+
+---
+
 > [!NOTE]
 > You can change the **obstacle locations, robot parameters, or target position** to test different scenarios.
 
@@ -75,15 +84,8 @@ The simulation generates **real-time visual feedback**, displaying:
 ---
 
 ## **Demo Video 🎥**
-To see the simulation in action, download and watch the demo video:  
-
-<video width="600" controls>
-  <source src="Wheeled%20and%20Legged%20Robots/WLR_PROJECT_VID.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-or checkout video here: 
-[📺 Demo Video](Wheeled%20and%20Legged%20Robots/WLR_PROJECT_VID.mp4)
+To see the simulation in action, watch the demo video:  
+[📺 Demo Video](/Wheeled%20and%20Legged%20Robots/WLR_PROJECT_VID.mp4)
 
 
 ---
