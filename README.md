@@ -92,7 +92,7 @@ To see the simulation in action, watch the demo video:
 
 ## **References**
 📌 **MATLAB Robotics Toolbox** – Official MATLAB documentation  
-📌 **Hybrid A-Star Algorithm** – Path planning reference  
+📌 **Hybrid A*** **Algorithm** – Path planning reference  
 📌 **Monte Carlo Localization** – Probabilistic robotics concepts  
 
 ---
